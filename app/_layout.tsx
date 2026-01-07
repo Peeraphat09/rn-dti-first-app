@@ -10,7 +10,7 @@ export default function rootLayout() {
           headerShown: false,
           headerTitleAlign: "center",
           headerStyle: {
-            backgroundColor: "#E6F4FE",
+            backgroundColor: "#ff0000",
           },
         }}
       />
